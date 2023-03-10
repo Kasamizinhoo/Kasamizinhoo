@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Olá! Sou o Gabriel Lacerda!
 
-<!--
-**Kasamizinhoo/Kasamizinhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Sobre mim:
 
-Here are some ideas to get you started:
+👨‍💻 Trabalho com front-end.
+🏳️‍🌈 Meus pronomes são ele/dele.
+📚 Estou estudando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tecnologias e ferramentas que eu uso:
+HTML/CSS/JavaScript
+ReactJS
+Python
+Git/GitHub
