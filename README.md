@@ -1,14 +1,13 @@
-👋 Olá! Sou o Gabriel Lacerda!
+👋 Olá! Meu Nome é Gabriel!
 
 🧑‍💻 Sobre mim:
 
-👨‍💻 Trabalho com front-end.
-🏳️‍🌈 Meus pronomes são ele/dele.
-📚 Estou estudando Python.
-
-
-🛠️ Tecnologias e ferramentas que eu uso:
+👨‍💻 Estudando front-end.
+📚 Estou estudando:
 HTML/CSS/JavaScript
 ReactJS
-Python
-Git/GitHub
+PHP
+Git/GitHub.
+
+
+
