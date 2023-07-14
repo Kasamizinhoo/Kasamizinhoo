@@ -5,7 +5,7 @@
 👨‍💻 Estudando front-end.
 📚 Estou estudando:
 HTML/CSS/JavaScript
-ReactJS
+React
 PHP
 Git/GitHub.
 
